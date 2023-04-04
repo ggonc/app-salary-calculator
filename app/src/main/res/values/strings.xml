@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo Do Salário</string>
+    <string name="labelSalario">Digite o seu salário (R$):</string>
+    <string name="labelPercentual">Qual será o percentual?</string>
+    <string name="rbtValor1">40%</string>
+    <string name="rbtValor2">45%</string>
+    <string name="rbtValor3">50%</string>
+    <string name="btnNovoSalario">Mostrar novo salário</string>
+    <string name="labelNovoSalario">Novo salário:</string>
+</resources>
